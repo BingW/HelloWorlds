@@ -1,0 +1,561 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  31 MAR 2012 20:23
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**/Users/bingwang/VimWork/Latex_model.tex
+(/Users/bingwang/VimWork/Latex_model.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2009-06-19, ngerman-x-2009-06-19, afrikaans, ancientgreek, ibycus, arabi
+c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
+h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
+h, french, galician, german, ngerman, swissgerman, monogreek, greek, hungarian,
+ icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, marathi, or
+iya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, kurmanji,
+ lao, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, pol
+ish, portuguese, romanian, russian, sanskrit, serbian, serbianc, slovak, sloven
+ian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, welsh, loaded
+.
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/cjk/texinput/CJK.sty
+Package: CJK 2008/12/29 4.8.2
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty
+Package: MULEenc 2008/12/29 4.8.2
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/cjk/texinput/CJK.enc
+File: CJK.enc 2008/12/29 4.8.2
+)
+LaTeX Info: Redefining \selectfont on input line 756.
+\CJK@indent=\box26
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/cjk/texinput/CJKnumb.sty
+Package: CJKnumb 2008/12/29 4.8.2
+\CJK@q=\count87
+\CJK@r=\count88
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/cjk/texinput/CJKulem.sty
+Package: CJKulem 2008/12/29 4.8.2
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box27
+\UL@hyphenbox=\box28
+\UL@skip=\skip43
+\UL@hook=\toks14
+\UL@height=\dimen103
+\UL@pe=\count89
+\UL@pixel=\dimen104
+\ULC@box=\box29
+Package: ulem 2011/03/18
+\ULdepth=\dimen105
+)
+\UL@lastkern=\dimen106
+\CJK@skip=\skip44
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip45
+\f@ncyO@elh=\skip46
+\f@ncyO@erh=\skip47
+\f@ncyO@olh=\skip48
+\f@ncyO@orh=\skip49
+\f@ncyO@elf=\skip50
+\f@ncyO@erf=\skip51
+\f@ncyO@olf=\skip52
+\f@ncyO@orf=\skip53
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count90
+))
+(/usr/local/texlive/2011/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+
+LaTeX Warning: Unused global option(s):
+    [openany].
+
+No file Latex_model.aux.
+\openout1 = `Latex_model.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 115.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count91
+\scratchdimen=\dimen107
+\scratchbox=\box30
+\nofMPsegments=\count92
+\nofMParguments=\count93
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count94
+\MPscratchDim=\dimen108
+\MPnumerator=\count95
+\makeMPintoPDFobject=\count96
+\everyMPtoPDFconversion=\toks16
+) (/usr/local/texlive/2011/texmf-dist/tex/latex/cjk/texinput/standard.bdg
+File: standard.bdg 2008/12/29 4.8.2
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/cjk/texinput/extended.enc
+File: extended.enc 2008/12/29 4.8.2
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/cjk/texinput/extended.chr
+File: extended.chr 2008/12/29 4.8.2
+)
+LaTeX Font Info:    Try loading font information for C19+com on input line 119.
+
+LaTeX Font Info:    No file C19com.fd. on input line 119.
+
+
+LaTeX Font Warning: Font shape `C19/com/m/n' undefined
+(Font)              using `C19/song/m/n' instead on input line 119.
+
+LaTeX Font Info:    Try loading font information for C19+song on input line 119
+.
+(/usr/local/texlive/2011/texmf-dist/tex/latex/cjk/texinput/GB/c19song.fd
+File: c19song.fd 2008/12/29 4.8.2
+)
+! Undefined control sequence.
+try@size@range ...extract@rangefontinfo font@info 
+                                                  <-*>@nil <@nnil 
+l.119 \CJKindent
+                                                       % 段首缩进
+? 
+! Use of \CJKchar  doesn't match its definition.
+ifnot@nil #1->def reserved@a {
+                              #1}ifx reserved@a @nnil expandafter @gobble el...
+l.119 \CJKindent
+                                                       % 段首缩进
+? 
+! Undefined control sequence.
+<argument> @nil 
+                
+l.119 \CJKindent
+                                                       % 段首缩进
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   *
+l.119 \CJKindent
+                                                       % 段首缩进
+? 
+! Argument of extract@rangefontinfo has an extra }.
+<inserted text> 
+                par 
+l.119 \CJKindent
+                                                       % 段首缩进
+? 
+Runaway argument?
+@nnil ifx external@font @empty try@size@substitution ifx external@font ETC.
+! Paragraph ended before extract@rangefontinfo was complete.
+<to be read again> 
+                   par 
+l.119 \CJKindent
+                                                       % 段首缩进
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   par 
+l.119 \CJKindent
+                                                       % 段首缩进
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   par 
+l.119 \CJKindent
+                                                       % 段首缩进
+? 
+! Extra }, or forgotten endgroup.
+<recently read> }
+                 
+l.119 \CJKindent
+                                                       % 段首缩进
+? 
+! Extra }, or forgotten endgroup.
+\CJKchar  ...al global CJKenc {CJK@oldenc }fi fi }
+                                                  CJK@ignorespaces 
+l.119 \CJKindent
+                                                       % 段首缩进
+? 
+! Extra }, or forgotten endgroup.
+CJKindent ...t hbox {CJK@spaceChar CJK@spaceChar }
+                                                  parindent wd CJK@indent 
+l.119 \CJKindent
+                                                       % 段首缩进
+? 
+(/usr/local/texlive/2011/texmf-dist/tex/latex/cjk/texinput/GB/GB.cpx
+File: GB.cpx 2008/12/29 4.8.2
+
+
+! LaTeX Error: bibname undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...mmand\bibname{^^?�^^?196^^?^^?�^^?215^^?}}
+                                                  
+? 
+
+! LaTeX Error: figureformat undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \renewcommand\figureformat
+                               {\prefigurename~\thefigure~\postfigurename}
+? 
+
+! LaTeX Error: tableformat undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.53 \renewcommand\tableformat
+                              {\pretablename~\thetable~\posttablename}
+? 
+
+! LaTeX Error: partformat undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.57 \renewcommand\partformat
+                             {\prepartname\CJKnumber{\value{part}}\postpartn...
+
+? 
+)
+! Missing endgroup inserted.
+<inserted text> 
+                endgroup 
+l.123 \maketitle
+                                                       % 生成标题
+? 
+! Missing endgroup inserted.
+<inserted text> 
+                endgroup 
+l.123 \maketitle
+                                                       % 生成标题
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.123 \maketitle
+                                                       % 生成标题
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.123 \maketitle
+                                                       % 生成标题
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.123 \maketitle
+                                                       % 生成标题
+? 
+! Undefined control sequence.
+try@size@range ...extract@rangefontinfo font@info 
+                                                  <-*>@nil <@nnil 
+l.123 \maketitle
+                                                       % 生成标题
+? 
+! Use of @item doesn't match its definition.
+ifnot@nil #1->def reserved@a {
+                              #1}ifx reserved@a @nnil expandafter @gobble el...
+l.123 \maketitle
+                                                       % 生成标题
+? 
+! Undefined control sequence.
+<argument> @nil 
+                
+l.123 \maketitle
+                                                       % 生成标题
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   *
+l.123 \maketitle
+                                                       % 生成标题
+? 
+! Argument of extract@rangefontinfo has an extra }.
+<inserted text> 
+                par 
+l.123 \maketitle
+                                                       % 生成标题
+? 
+Runaway argument?
+@nnil ifx external@font @empty try@size@substitution ifx external@font ETC.
+! Paragraph ended before extract@rangefontinfo was complete.
+<to be read again> 
+                   par 
+l.123 \maketitle
+                                                       % 生成标题
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.123 \maketitle
+                                                       % 生成标题
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.123 \maketitle
+                                                       % 生成标题
+? 
+! Extra }, or forgotten endgroup.
+<recently read> }
+                 
+l.123 \maketitle
+                                                       % 生成标题
+? 
+! Undefined control sequence.
+@title ->一
+            个latex例子
+l.123 \maketitle
+                                                       % 生成标题
+? 
+! Use of @item doesn't match its definition.
+ifnot@nil #1->def reserved@a {
+                              #1}ifx reserved@a @nnil expandafter @gobble el...
+l.123 \maketitle
+                                                       % 生成标题
+? 
+! Undefined control sequence.
+<argument> @nil 
+                
+l.123 \maketitle
+                                                       % 生成标题
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   *
+l.123 \maketitle
+                                                       % 生成标题
+? 
+! Argument of extract@rangefontinfo has an extra }.
+<inserted text> 
+                par 
+l.123 \maketitle
+                                                       % 生成标题
+? 
+Runaway argument?
+@nnil ifx external@font @empty try@size@substitution ifx external@font ETC.
+! Paragraph ended before extract@rangefontinfo was complete.
+<to be read again> 
+                   par 
+l.123 \maketitle
+                                                       % 生成标题
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.123 \maketitle
+                                                       % 生成标题
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.123 \maketitle
+                                                       % 生成标题
+? 
+! Extra }, or forgotten endgroup.
+<recently read> }
+                 
+l.123 \maketitle
+                                                       % 生成标题
+? 
+! Use of @item doesn't match its definition.
+ifnot@nil #1->def reserved@a {
+                              #1}ifx reserved@a @nnil expandafter @gobble el...
+l.123 \maketitle
+                                                       % 生成标题
+? 
+! Undefined control sequence.
+<argument> @nil 
+                
+l.123 \maketitle
+                                                       % 生成标题
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   *
+l.123 \maketitle
+                                                       % 生成标题
+? 
+! Argument of extract@rangefontinfo has an extra }.
+<inserted text> 
+                par 
+l.123 \maketitle
+                                                       % 生成标题
+? 
+Runaway argument?
+@nnil ifx external@font @empty try@size@substitution ifx external@font ETC.
+! Paragraph ended before extract@rangefontinfo was complete.
+<to be read again> 
+                   par 
+l.123 \maketitle
+                                                       % 生成标题
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.123 \maketitle
+                                                       % 生成标题
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.123 \maketitle
+                                                       % 生成标题
+? 
+! Extra }, or forgotten endgroup.
+<recently read> }
+                 
+l.123 \maketitle
+                                                       % 生成标题
+? 
+! Use of @item doesn't match its definition.
+ifnot@nil #1->def reserved@a {
+                              #1}ifx reserved@a @nnil expandafter @gobble el...
+l.123 \maketitle
+                                                       % 生成标题
+? 
+! Undefined control sequence.
+<argument> @nil 
+                
+l.123 \maketitle
+                                                       % 生成标题
+? x
+ 
+Here is how much of TeX's memory you used:
+ 2341 strings out of 493633
+ 27844 string characters out of 3143378
+ 80249 words of memory out of 3000000
+ 5650 multiletter control sequences out of 15000+200000
+ 5330 words of font info for 19 fonts, out of 3000000 for 9000
+ 831 hyphenation exceptions out of 8191
+ 22i,1n,43p,287b,445s stack positions out of 5000i,500n,10000p,200000b,50000s
+No pages of output.
+PDF statistics:
+ 0 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
